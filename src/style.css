@@ -1,0 +1,13 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url("images/7137245.png");
+    background-size: cover;
+  }
+
+.myButton {
+color: rgb(255, 255, 255); font-size: 23px; line-height: 23px; padding: 7px; border-radius: 10px; font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif; font-weight: normal; text-decoration: none; font-style: normal; font-variant: normal; text-transform: none; background-image: linear-gradient(to right, rgb(143, 25, 164) 0%, rgb(203, 0, 188) 53%, rgb(245, 152, 238) 100%); box-shadow: rgba(255, 0, 248, 0.33) 5px 5px 14px 5px; border: 2px solid rgb(231, 105, 255); display: inline-block;}
+.myButton:hover {
+background: #8F19A4; }
+.myButton:active {
+background: #F598EE; }
